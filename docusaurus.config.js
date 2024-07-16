@@ -9,7 +9,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'EAP Course Wiki',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'ELektronics is COOL',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
