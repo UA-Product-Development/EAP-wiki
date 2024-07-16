@@ -23,6 +23,7 @@ const config = {
   organizationName: 'UA-Product-Development', // Usually your GitHub org/user name.
   projectName: 'EAP-wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
