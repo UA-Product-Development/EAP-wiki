@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introductie
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Dit is een online versie van de cursus ' Elektronische aspecten van producten ' opleiding Productontwikkeling 
 
 ## Getting Started
 
