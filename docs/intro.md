@@ -4,7 +4,8 @@ sidebar_position: 1
 
 # Introductie
 
-Dit is een online versie van de cursus ' Elektronische aspecten van producten ' opleiding Productontwikkeling 
+Dit is een online versie van de cursus ' Technologie Gedreven Ontwerpen - Module 2 ' binnen de opleiding Productontwikkeling van Universiteit Antwerpen. 
+
 
 ## Getting Started
 

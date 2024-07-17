@@ -82,7 +82,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/UA-Product-Development/EAP-wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -126,12 +126,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/UA-Product-Development/EAP-wiki',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Jelle Saldien. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
